@@ -1,7 +1,7 @@
 # fasthtml and tailwindcss
 
-Install here:
+Install `Tailwind` here:
 - https://tailwindcss.com/blog/standalone-cli
 
-Follow here:
+Follow the tutorial here:
 - https://differ.blog/inplainenglish/fasthtml-with-tailwind-css-no-node-js-no-cdn-83d260
